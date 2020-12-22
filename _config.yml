@@ -9,7 +9,7 @@ layout_style: overflow
 palette: blue
 header:
   title: Movies Galore
-  tagline: Header Tagline
+  tagline: We love movies
   profile_img: images/avatar.png
   background: dark
   has_nav: true
