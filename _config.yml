@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: Personal blogging theme for Stackbit
 layout_style: simple
-palette: blue
+palette: violet
 header:
   title: Movies Galore
   tagline: We love movies
